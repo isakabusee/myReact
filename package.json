@@ -1,0 +1,19 @@
+{
+  "name": "myreact",
+  "version": "1.0.0",
+  "description": "my test react project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/isakabusee/myReact.git"
+  },
+  "author": "Isaac Busee",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/isakabusee/myReact/issues"
+  },
+  "homepage": "https://github.com/isakabusee/myReact#readme"
+}
