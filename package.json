@@ -10,10 +10,14 @@
     "type": "git",
     "url": "git+ssh://git@github.com/isakabusee/myReact.git"
   },
-  "author": "Isaac Busee",
+  "author": "Isaac",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/isakabusee/myReact/issues"
   },
-  "homepage": "https://github.com/isakabusee/myReact#readme"
+  "homepage": "https://github.com/isakabusee/myReact#readme",
+  "dependencies": {
+    "bootstrap": "^4.6.0",
+    "express": "^4.17.1"
+  }
 }
